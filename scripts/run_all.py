@@ -7,7 +7,7 @@ SRC_FOLDER = os.path.abspath(os.path.join(os.path.dirname(__file__), "../src"))
 
 # Lista de scripts en orden
 scripts = [
-    "make.py",
+    "make_dataset.py",
     "train.py",
     "evaluate.py",
     "predict.py"
